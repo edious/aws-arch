@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:46:32.936Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6jz5_yVYEGuD9lmJj8ra" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T11:03:17.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="27o9AqtA5e6-nEkzVvld" version="24.0.8" type="github">
   <diagram name="Page-1" id="U_VyFC0IIoApVUYbYKKy">
     <mxGraphModel dx="2084" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,17 +237,6 @@
             <mxPoint x="970" y="526" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rwp6Niu8qP_-dddBiWSb-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" parent="HqHza_-0HKxLf99IaOxo-8" source="HqHza_-0HKxLf99IaOxo-31" target="8SDtlylDg8CAt8vBrljC-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="410" as="sourcePoint" />
-            <mxPoint x="920" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rwp6Niu8qP_-dddBiWSb-4" value="Pod logs/metrics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rwp6Niu8qP_-dddBiWSb-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.2059" y="4" relative="1" as="geometry">
-            <mxPoint x="-125" y="55" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rwp6Niu8qP_-dddBiWSb-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;EFS&lt;/b&gt;&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_file_system;" parent="HqHza_-0HKxLf99IaOxo-8" vertex="1">
           <mxGeometry x="970" y="690" width="60" height="60" as="geometry" />
         </mxCell>
@@ -402,6 +391,9 @@
             <mxPoint x="610" y="190" as="sourcePoint" />
             <mxPoint x="660" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R3l6JcRlQUfsObyQ_EKf-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Pod logs/metrics&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="HqHza_-0HKxLf99IaOxo-8">
+          <mxGeometry x="1250" y="130" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HqHza_-0HKxLf99IaOxo-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ops&amp;nbsp;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#505050;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.office.services.user_services;shadow=0;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="-218" y="390" width="78" height="78" as="geometry" />
